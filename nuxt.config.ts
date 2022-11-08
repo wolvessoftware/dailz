@@ -7,7 +7,7 @@ export default defineNuxtConfig({
         {
           name: "description",
           content:
-            "Minimal, but beautiful day planner. Focus on what you need to get done.",
+            "The best way to create the future, is to plan it. Dailz is a minimal, but beautiful day planner. That helps you focus on what you need to get done.",
         },
       ],
     },

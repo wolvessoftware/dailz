@@ -1,18 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Dailz
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+> The best way to create the future, is to plan it.
 
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
 # pnpm
 pnpm install --shamefully-hoist
 ```
@@ -22,7 +16,7 @@ pnpm install --shamefully-hoist
 Start the development server on http://localhost:3000
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
 ## Production
@@ -30,13 +24,13 @@ npm run dev
 Build the application for production:
 
 ```bash
-npm run build
+pnpm build
 ```
 
 Locally preview production build:
 
 ```bash
-npm run preview
+pnpm preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
