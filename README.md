@@ -1,6 +1,6 @@
 # Dailz
 
-> The best way to create the future, is to plan it.
+> The best way to predict the future, is to plan it.
 
 ## Setup
 
